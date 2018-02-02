@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 01 13:14:14 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0161-52ca-6fdf-0000061590a0 
+on database directory C:\Users\user\Documents\NetBeansProjects\Projects\CMMDesktopMonitor\DB\monitorTexto  with class loader sun.misc.Launcher$AppClassLoader@4617c264 
+Loaded from file:/C:/Users/user/Documents/NetBeansProjects/Projects/CMMDesktopMonitor/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\user\Documents\NetBeansProjects\Projects\CMMDesktopMonitor
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
